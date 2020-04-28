@@ -101,6 +101,7 @@
     ```root@linux:~./install.sh```
 
  After Following All Steps Just Type In Terminal 
+ 
     ```root@linux:~sudo kaumodaki``` 
 
 #### Some tool used in hackingtool By below authors :
