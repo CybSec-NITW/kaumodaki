@@ -92,18 +92,17 @@
 
 #### This Tool Must Run As ROOT !!!
 
-    git clone https://github.com/CybSec-NITW/kaumodaki.git
+    ```root@linux:~git clone https://github.com/CybSec-NITW/kaumodaki.git```
     
-    chmod -R 755 && cd kaumodaki
+    ```root@linux:~chmod -R 755 && cd kaumodaki```
     
-    sudo pip3 install -r requirement.txt
+    ```root@linux:~sudo pip3 install -r requirement.txt```
     
-    ./install.sh
-    
-    sudo kaumodaki
+    ```root@linux:~./install.sh```
 
- After Following All Steps Just Type In Terminal **root@kaliLinux:~** **hackingtool**
-### This Tool is in Beta Please Check And Send Querie,Errors, Suggestion & Also Send Feedback :)
+ After Following All Steps Just Type In Terminal 
+    ```root@linux:~sudo kaumodaki``` 
+
 #### Some tool used in hackingtool By below authors :
 [thelinuxchoice](https://github.com/thelinuxchoice.git)
 
