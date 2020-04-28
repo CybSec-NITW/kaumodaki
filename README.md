@@ -98,7 +98,7 @@
     
     ```root@linux:~sudo pip3 install -r requirement.txt```
     
-    ```root@linux:~./install.sh```
+    ```root@linux:~sudo ./install.sh```
 
  After Following All Steps Just Type In Terminal 
  
