@@ -9,27 +9,6 @@
 
 ![Kaumodaki](https://imgur.com/04I14VF.jpg)
 
-### Give your Contribute :) 
-# Hackingtool Menu
-- AnonSurf                  
-- Information Gathering
-- Password Attack
-- Wireless Attack
-- SQL Injection Tools 
-- Phishing Attack 
-- Web Attack Tool
-- Post exploitation
-- Forensic Tools
-- Payload Creator
-- Router Exploit
-- Wifi Jamming
-- SocialMedia Attack
-- SocialMedia Finder 
-- Android Hack
-- Steganography
-- Other Tools 
-- Update System
-
 ### AnonSurf
 - Anonmously Surf
 - Multitor
