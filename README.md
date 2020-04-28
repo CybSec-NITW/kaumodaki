@@ -94,7 +94,7 @@
 
     ```root@linux:~git clone https://github.com/CybSec-NITW/kaumodaki.git```
     
-    ```root@linux:~chmod -R 755 && cd kaumodaki```
+    ```root@linux:~chmod -R 755 kaumodaki && cd kaumodaki```
     
     ```root@linux:~sudo pip3 install -r requirement.txt```
     
