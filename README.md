@@ -5,7 +5,7 @@
 ![](https://img.shields.io/github/stars/CybSec-NITW/kaumodaki)
 
 <img src ="https://img.shields.io/badge/Important-notice-red" />
-<h4>Please Use Only For Educational Purpose.Don't Use for illegal Activity</h4>
+<h4>Use Only For Educational Purpose.Don't Use for illegal Activity</h4>
 
 ![Kaumodaki](https://imgur.com/04I14VF.jpg)
 
@@ -68,11 +68,11 @@
 - Fastssh
 ### SocialMedia Attack
 - Instagram Attack
-- Tweeter Attack
+- Twitter Attack
 - Facebook Attack
 - Application Checker
 ### SocialMedia Finder
-- Find SocialMedia By Facial Recognation System
+- Find SocialMedia By Facial Recognition System
 - Find SocialMedia By UserName
 ### Android HAcking 
 - Keydroid 
@@ -111,4 +111,4 @@
 ## [MIT License](https://raw.githubusercontent.com/CybSec-NITW/kaumodaki/master/LICENSE)
 
 #### Thank you..
-#### Don't Forgot to share with Your Friends 
+#### Don't Forget to share with Your Friends 
