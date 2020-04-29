@@ -104,7 +104,7 @@
  
     ```root@linux:~sudo kaumodaki``` 
 
-#### Some tool used in hackingtool By below authors :
+#### Some tool used in kaumodaki By below authors :
 [thelinuxchoice](https://github.com/thelinuxchoice.git)
 
 [UndeadSec](https://github.com/UndeadSec)
