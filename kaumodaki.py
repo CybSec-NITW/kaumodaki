@@ -256,7 +256,7 @@ def nmap():
         menu()
     
 def Dracnmap():
-    os.system("echo \"Dracnmap is an open source program which is using to \nexploit the network and gathering information with nmap help\" | boxes -d boy ")
+    print("Dracnmap is an open source program which is using to \nexploit the network and gathering information with nmap help\n")
     dracnap = input("\033[32m[1]\033[36mInstall \033[32m[2]\033[36mRun \033[32m[99]\033[36mBack >> \033[32m")
     if dracnap == "1":
         os.system("sudo git clone https://github.com/Screetsec/Dracnmap.git && cd Dracnmap && chmod +x Dracnmap.sh")
@@ -279,7 +279,7 @@ def ports():
     sys.exit()
 
 def XSStrike():
-    os.system("echo \"XSStrike is a python script designed to detect and exploit XSS vulnerabilites. \"| boxes -d boy")
+    print("XSStrike is a python script designed to detect and exploit XSS vulnerabilites. \n")
     xc=input("\033[32m[1]\033[36mInstall \033[32m[2]\033[36mRun \033[32m[99]\033[36mBack >> \033[32m")
     if xc == "1":
         os.system("sudo rm -rf XSStrike")
