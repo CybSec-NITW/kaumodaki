@@ -174,7 +174,7 @@ def anonsurf():
         menu()
 
 def ansurf():
-    os.system("echo  \"It automatically overwrites the RAM when\nthe system is shutting down AnD AlSo cHange Ip\" |boxes -d boy")
+    print("It automatically overwrites the RAM when\nthe system is shutting down and also change IP\n")
     anc=input("[1]\033[36mInstall \033[32m[2]\033[36mRun \033[32m[3]\033[36mStop \033[32m[99]\033[36mMain Menu >> \033[32m")
     if anc == "1":
         os.system("sudo git clone https://github.com/Und3rf10w/kali-anonsurf.git")
@@ -190,7 +190,7 @@ def ansurf():
         menu()
 
 def multitor():
-    os.system("echo \"How to stay in multi places at the same time \" | boxes -d boy")
+    print("How to stay in multi places at the same time \n")
     userchoice = input("\033[32m[1]\033[36mInstall \033[32m[2]\033[36mRun \033[32m[99]\033[36mBack >>\033[32m")
     if userchoice == "1":
         os.system("sudo git clone https://github.com/thelinuxchoice/multitor.git")
