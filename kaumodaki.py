@@ -293,7 +293,7 @@ def XSStrike():
         info()
 
 def xerosploit():
-    os.system("echo \"Xerosploit is a penetration testing toolkit whose goal is to perform \n man-in-th-middle attacks for testing purposes\"|boxes -d boy")
+    print("Xerosploit is a penetration testing toolkit whose goal is to perform \n man-in-th-middle attacks for testing purposes\n")
     xeros=input("\033[32m[1]\033[36mInstall \033[32m[2]\033[36mRun \033[32m[99]\033[36mBack >> \033[32m")
     if xeros == "1":
         os.system("git clone https://github.com/LionSec/xerosploit")
