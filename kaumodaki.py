@@ -306,7 +306,7 @@ def xerosploit():
         menu()
 
 def reconspider():
-    os.system("echo \" ReconSpider is most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, \nWebsites, Organizations and find out information from different sources.\" | boxes -d boy")
+    print(" ReconSpider is most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, \nWebsites, Organizations and find out information from different sources.\n")
     userchoice = input("\033[32m[1]\033[36mInstall \033[32m[2]\033[36mRun \033[32m[99]\033[36mBack >> \033[32m")
     if userchoice == "1":
         os.system("sudo git clone https://github.com/bhavsec/reconspider.git")
