@@ -319,7 +319,7 @@ def reconspider():
         menu()
 
 def setoolkit():
-    os.system("echo \"The Social-Engineer Toolkit is an open-source penetration\ntesting framework designed for social engineering\"| boxes -d boy")
+    print("The Social-Engineer Toolkit is an open-source penetration\ntesting framework designed for social engineering\n")
     choiceset = input("\033[32m[1]\033[36mInstall \033[32m[2]\033[36mRun \033[32m[99]\033[36mBack >> \033[32m")
     if choiceset == 1:
         os.system("git clone https://github.com/trustedsec/social-engineer-toolkit.git")
