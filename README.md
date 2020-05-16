@@ -96,7 +96,7 @@
     
     ```root@linux:~chmod -R 755 kaumodaki && cd kaumodaki```
     
-    ```root@linux:~sudo pip3 install -r requirement.txt```
+    ```root@linux:~sudo pip3 install -r requirements.txt```
     
     ```root@linux:~sudo ./install.sh```
 
