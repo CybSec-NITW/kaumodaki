@@ -363,7 +363,7 @@ def passwd():
         menu()
 
 def cupp():
-    os.system("echo \"Common User Password Generator..!!\"| boxes -d boy")
+    print("Common User Password Generator..!!\n")
     cc=input("\033[32m[1]\033[36mInstall \033[32m[2]\033[36mRun \033[32m[99]\033[36mBack >> \033[32m")
     if cc == "1":
         os.system("git clone https://github.com/Mebus/cupp.git")
